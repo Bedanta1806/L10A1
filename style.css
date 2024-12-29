@@ -1,0 +1,17 @@
+body{background-image: url('ima.png');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;}
+p,h1{color: brown;
+background-color: aquamarine;}
+a{cursor:crosshair;
+    color: aqua;
+} 
+a:hover{color: bisque;
+    background-color: blue;
+}
+a:active{color: brown;
+background-color: black;}
+
+img{border: 5px 5px 5px 5px;
+border-style: double;border-width: 12.5px}
